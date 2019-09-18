@@ -1,6 +1,5 @@
 # git_exercise
 Just a practice repo
-
 Title: The Glacier of the Lizard Navy
 
 Description: After a century, the hyper intellectual lizard population emerge from a glacier, threatening to wreck havoc on the current status quo.
